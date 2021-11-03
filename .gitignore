@@ -1,0 +1,10 @@
+__pycache__/
+
+# pycharm
+.idea/
+
+# environments
+venv*/
+
+# lambda zip package
+my-deployment-package.zip
